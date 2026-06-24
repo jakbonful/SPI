@@ -1,0 +1,35 @@
+# =========================
+# ModelSim
+# =========================
+sim/modelsim
+
+# =========================
+# Vivado
+# =========================
+**/.Xil/
+*.jou
+*.log
+*.pb
+*.str
+*.dcp
+*.cache
+*.hw
+*.runs
+*.sim
+*.ip_user_files
+*.gen
+
+# Vivado temporary/runtime files
+*.wdf
+*.rst
+*.rpx
+*.vds
+*.xml
+
+# =========================
+# General
+# =========================
+*.bak
+*.tmp
+Thumbs.db
+.DS_Store
